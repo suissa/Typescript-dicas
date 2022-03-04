@@ -8,4 +8,4 @@ Este repositório é ideal para **desenvolvedores iniciantes** que querem aprend
 
 ## Table of Contents
 
-- 1) [use readonly para imutabilidade]("./1-readonly.md")
+1) [use readonly para imutabilidade]("https://github.com/suissa/Typescript-dicas/blob/master/1-readonly.md")

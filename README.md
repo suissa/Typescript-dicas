@@ -8,4 +8,6 @@ Este repositório é ideal para **desenvolvedores iniciantes** que querem aprend
 
 ## Table of Contents
 
-1) [use readonly para imutabilidade]("https://github.com/suissa/Typescript-dicas/blob/master/1-readonly.md")
+1) [Use readonly para imutabilidade]("https://github.com/suissa/Typescript-dicas/blob/master/1-readonly.md")
+2) [Use type para tipos complexos]("https://github.com/suissa/Typescript-dicas/blob/master/2-types.md")
+3) [Use Utility Types]("https://github.com/suissa/Typescript-dicas/blob/master/3-utility-types.md")
